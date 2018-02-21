@@ -2,8 +2,6 @@
 import hashlib
 import sys
 import itertools
-import time
-
 
 if (len(sys.argv) < 3):
 	print("Not enough arguments")
